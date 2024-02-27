@@ -1,0 +1,950 @@
+{
+  "quiz-data": {
+    "general-information": [
+      {
+        "question": "In Section II of the Declaration of Principles, the Philippines renounces ________ as an instrument of national policy:",
+        "options": [
+          "Communism",
+          "War",
+          "Lawlessness",
+          "Democracy",
+          "Extra-territoriality"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "According to Article II, Section 6 of the Constitution, separation of the church and state shall be inviolable.",
+        "options": ["True", "False", "Misleading"],
+        "answer": 1
+      },
+      {
+        "question": "In accordance with Art. III, Sec. 15 of the Constitution, the privilege of the writ of habeas corpus shall not be suspended ONLY in the cases of:",
+        "options": [
+          "War",
+          "Foreign invasion",
+          "State of calamity",
+          "Invasion or rebellion",
+          "State of emergency"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "Right to freely publish and say whatever pleases to do based on Art. III, Sec. 4 of the Constitution.",
+        "options": [
+          "Freedom from paying debts",
+          "Freedom to protest",
+          "Right to life",
+          "Freedom of expression",
+          "Freedom of information"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "It is an inherent power of the State to take private property for public use given just compensation.",
+        "options": [
+          "Police Power",
+          "Power of taxation",
+          "Sovereignty",
+          "Dominance",
+          "Power of eminent domain"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "Another inherent power of the State to enact and enforce laws in relation to persons and properties.",
+        "options": [
+          "Police Power",
+          "Power of taxation",
+          "Sovereignty",
+          "Dominance",
+          "Power of eminent domain"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "An inherent power of the State to impose charge or burden such as charged upon persons and properties.",
+        "options": [
+          "Police Power",
+          "Power of taxation",
+          "Sovereignty",
+          "Dominance",
+          "Power of eminent domain"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following is considered nepotism based on Art. VII, Section 13 of the Constitution?",
+        "options": [
+          "President appointing his college professor as Secretary to Education.",
+          "President has three children who are local officials.",
+          "President appointed his fellow in a fraternity as Chief of PNP.",
+          "President appointed his third-degree cousin as the Ombudsman.",
+          "President appointed his drinking buddies as cabinet secretaries."
+        ],
+        "answer": 4
+      },
+      {
+        "question": "How many times may a President be elected consecutively?",
+        "options": ["2", "5", "3", "4", "None of the above"],
+        "answer": 5
+      },
+      {
+        "question": "No person who has succeeded as President and has served as such for years shall be qualified for election to the same office any more than _____ years shall be qualified for election to the same office any time.",
+        "options": ["2", "3", "5", "6", "4"],
+        "answer": 5
+      },
+      {
+        "question": "A presidential veto can be overridden with a _____ vote of both Senate and House of Representatives.",
+        "options": [
+          "One-half",
+          "Majority",
+          "Two-thirds",
+          "One-fourth",
+          "Three-fourths"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "When former Chief Justice Corona was impeached a vote of ______ from the Senate resulted in his conviction.",
+        "options": [
+          "One-half",
+          "Majority",
+          "Two-thirds",
+          "One-fourth",
+          "Three-fourths"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "According to Art. VII, Sec. 1 of the Constitution, all the executive power shall be vested in the _______",
+        "options": [
+          "Chief Justice and members of the Courts",
+          "Executive Secretary",
+          "Senate President and Senators",
+          "Solicitor General",
+          "President and Cabinet Members"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "How long immediately before the next presidential elections and up to the end of his term is a President not allowed to make appointments?",
+        "options": ["2 months", "30 days", "6 months", "100 days", "3 months"],
+        "answer": 1
+      },
+      {
+        "question": "Art. VII, Sec 18 of the Constitution gives what position in the Armed Forces of the Philippines to the President?",
+        "options": [
+          "Four Star General of the Armed Forces",
+          "Commanding-General",
+          "Commander-in-Chief",
+          "Head of the AFP",
+          "Chief-of-Staff"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which of the following may disqualify a person to run as Vice-President?",
+        "options": [
+          "Seventy years old on the day of the election.",
+          "Has Filipino parents but born in the United States.",
+          "A registered voter.",
+          "Able to read and write.",
+          "Lived in abroad 9 years preceding the election."
+        ],
+        "answer": 5
+      },
+      {
+        "question": "It is the process of amending and revising the Constitution.",
+        "options": [
+          "Plebiscite",
+          "Invoked by the President",
+          "Constitutional Convention",
+          "Invoked by Filipino People directly",
+          "None of the above"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Which of the following is NOT TRUE about paying tax in the Philippines?",
+        "options": [
+          "Progressive",
+          "Involuntary",
+          "It has exemptions",
+          "It goes to state's debts alone",
+          "It is enforced contribution"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "Any member of the Supreme Court must:",
+        "options": [
+          "Not be a member of Philippine Bar.",
+          "Have been a judge of a lower court for 15 years or more.",
+          "Be a naturalized citizen.",
+          "Not be a degree holder.",
+          "Have been a judge of Court of Appeals for 10 years."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "It is the power of a President to postpone the execution of death penalty.",
+        "options": ["Reprieve", "Pardon", "Commutation", "Veto", "Clemency"],
+        "answer": 1
+      },
+      {
+        "question": "It is the power of a President to reduce the sentence imposed to a lesser punishment such as from death to life imprisonment.",
+        "options": ["Reprieve", "Pardon", "Commutation", "Veto", "Clemency"],
+        "answer": 3
+      },
+      {
+        "question": "Which body has the power to hear and decide on all Impeachment cases?",
+        "options": [
+          "Ombudsman",
+          "Senate",
+          "Sandiganbayan",
+          "Congress",
+          "House of Representatives"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Elective or appointive public officials or employees are prohibited to accept any kind of present, compensation or any title of any kind from any foreign government without the consent of _______",
+        "options": [
+          "Ombudsman",
+          "Senate",
+          "Sandiganbayan",
+          "House of Representatives",
+          "Congress"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "According to the 1987 Constitution, the State is mandated to invest the highest budget to ______",
+        "options": [
+          "Education",
+          "Health",
+          "Agriculture",
+          "National Defense",
+          "Infrastructure"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "How many votes are needed for the Congress or a Constitutional Assembly to propose an amendment or revision of the present 1987 Constitution?",
+        "options": [
+          "One-half",
+          "Majority",
+          "Two-thirds",
+          "One-fourth",
+          "Three-fourths"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "It is an imposed contribution from persons or properties levied by the law-making body of the state.",
+        "options": ["Taxes", "Fees", "Burden", "Contribution", "Collections"],
+        "answer": 1
+      },
+      {
+        "question": "Article III, section 11 of the Constitution provides every person the free access to:",
+        "options": [
+          "Health",
+          "Education",
+          "Libraries",
+          "Transportation",
+          "Courts"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "The maximum number of consecutive terms that a member of the Senate may serve.",
+        "options": ["5", "4", "2", "1", "3"],
+        "answer": 3
+      },
+      {
+        "question": "The president must be a resident of the Philippines for at least how many years immediately preceding an election?",
+        "options": ["6 months", "1 year", "10 years", "From birth", "6 years"],
+        "answer": 3
+      },
+      {
+        "question": "The minimum age requirement for a person seeking the vice-presidential position.",
+        "options": ["25", "30", "40", "45", "35"],
+        "answer": 3
+      },
+      {
+        "question": "Citizenship acquired by legal process.",
+        "options": [
+          "Jus soli",
+          "Jus sanguinis",
+          "Naturalization",
+          "Estoppel",
+          "Jus loci"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "The first word written in the 1987 Philippine Constitution.",
+        "options": ["I", "We", "The", "People", "Filipino"],
+        "answer": 2
+      },
+      {
+        "question": "It is the right and obligation of qualified citizens during elections to vote.",
+        "options": [
+          "Suffrage",
+          "Rule of law",
+          "Absolute rule",
+          "Electoral protest",
+          "Rule of Majority"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "It is a vote of people expressing their choice for or against a proposed law.",
+        "options": [
+          "Election",
+          "Referendum",
+          "Initiative",
+          "Recall",
+          "Plebiscite"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "It is a vote to ratify or reject a certain law passed by the national or local legislative body.",
+        "options": [
+          "Election",
+          "Referendum",
+          "Initiative",
+          "Recall",
+          "Plebiscite"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "It is a process by which the Filipino people can directly propose a law.",
+        "options": [
+          "Election",
+          "Referendum",
+          "Initiative",
+          "Recall",
+          "Plebiscite"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "A method by which voters can remove an elected official from office through a direct vote before the end of his/her term.",
+        "options": [
+          "Election",
+          "Referendum",
+          "Initiative",
+          "Recall",
+          "Plebiscite"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "Which of the following is NOT a qualification of a registered voter?",
+        "options": [
+          "A citizen of the Philippines.",
+          "At least 18 years of age.",
+          "Have resided in the Philippines for one year.",
+          "Have resided in the place where he will vote for at least 6 months.",
+          "Must be able to read and write."
+        ],
+        "answer": 5
+      },
+      {
+        "question": "A voter's name shall be deleted from the official voter's registration list for the failure to vote in how many elections?",
+        "options": [
+          "Two elections",
+          "Three preceding elections",
+          "Two preceding elections",
+          "Three elections",
+          "Four elections even not consecutive."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "If a President wishes to veto a bill, he/she must communicate it within a certain span of time, otherwise, the bill will become a law. How long is this span of time?",
+        "options": [
+          "30 days",
+          "60 days",
+          "120 days",
+          "90 days",
+          "None of the above"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "One of the functions of the government is to enter into treaties and agreements with the governments of other states. However, such agreements will only be valid and effective when the concurrence of a specific government entity has been given. Which of the following is this entity?",
+        "options": [
+          "Congress",
+          "Senate",
+          "President",
+          "Supreme Court",
+          "Department of Foreign Affairs"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What is regarded by the State as the primary social-economic force?",
+        "options": ["Education", "Trade", "Labor", "Commerce", "Agriculture"],
+        "answer": 3
+      },
+      {
+        "question": "The following are blessings of democracy provided by Art. II, Sec. 5 of the Constitution EXCEPT:",
+        "options": [
+          "Peace and order",
+          "Promotion of general welfare",
+          "Education and health",
+          "Protection of property",
+          "Protection of life and liberty"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who has the sole power to declare the existence of war as provided by Art. VI, Sec. 23 of the Constitution?",
+        "options": [
+          "President",
+          "Commander-in-Chief, AFP",
+          "Secretary of National Defense",
+          "Filipino People",
+          "Congress"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "If a plaintiff is a minor who is a victim of a rape case, the state may invoke such right to protect the victim's rights in case of her incapability to prosecute the case. What is this called?",
+        "options": [
+          "Inflagrante delicto",
+          "Human rights doctrine",
+          "Parens Patriae",
+          "Principle of estoppel",
+          "Plain view"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who is the third highest government official in the Philippines?",
+        "options": [
+          "Senate President",
+          "Senator",
+          "Chief Justice",
+          "House Representatives",
+          "House Speaker"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "When is the deadline for filing income tax returns every taxable year?",
+        "options": ["April 15", "April 30", "March 15", "March 30", "March 1"],
+        "answer": 1
+      },
+      {
+        "question": "Which of the following does the Constitution provide a special election for registered Overseas Filipino Workers?",
+        "options": [
+          "Online-Voting",
+          "Automated Elections",
+          "Overseas Voting",
+          "Proxy Voting",
+          "Absentee Voting"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "Who can grant emergency powers to the President, especially in times of war?",
+        "options": [
+          "Vice-President",
+          "Secretary of National Defense",
+          "Filipino People",
+          "Commander-in-Chief, AFP",
+          "Congress"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "Which among these bills does not come from the House of Representatives?",
+        "options": [
+          "House bills",
+          "Amnesty",
+          "Private bills",
+          "Tariff and revenue bills",
+          "Appropriation Bill"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "A presidential veto can be overridden with a _____ vote of both Senate and House of Representatives.",
+        "options": [
+          "One-half",
+          "Majority",
+          "Two-thirds",
+          "One-fourth",
+          "Three-fourths"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "A bill becomes a law in the following processes EXCEPT for one, what is it?",
+        "options": [
+          "If it's approved by the President.",
+          "If it's not acted upon by the President within 30 days after the date of receipt.",
+          "If the President vetoes the bill.",
+          "If the President returns the bill and communicates his objections to the House where it originated and the same re-passed over his veto by a vote of two-thirds of both Houses.",
+          "If it's signed by the President."
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Tax paid on one's right to transmit property at death and measured by the value of such property?",
+        "options": [
+          "Donor's tax",
+          "Sin tax",
+          "Withholding tax",
+          "Excise Tax",
+          "Estate tax"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "What tax is paid by citizens who derived income by compensation?",
+        "options": [
+          "Value added tax",
+          "Sin tax",
+          "Income tax",
+          "Excise Tax",
+          "Real estate tax"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Article VII, Sec. 2 of the 1987 Constitution provides that a presidential candidate has a minimum residency requirement of how many years?",
+        "options": ["6 months", "1 year", "10 years", "From birth", "6 years"],
+        "answer": 3
+      },
+      {
+        "question": "According to Article VII, Sec. 3 of the 1987 Constitution, what is the minimum age requirement of a presidential candidate?",
+        "options": [
+          "25 years old",
+          "30 years old",
+          "40 years old",
+          "45 years old",
+          "35 years old"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Art VI, Sec. 25 of the Constitution provides that a special Appropriation Bill shall specify the purpose for which it is intended and shall be supported by funds actually available and shall be certified by which body?",
+        "options": [
+          "Office of the President",
+          "Department of Budget Management",
+          "Department of Finance",
+          "National Treasurer",
+          "Congress"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "All the citizens may be called upon by the Government to protect the State under conditions provided by the law.",
+        "options": ["True", "False", "Misleading"],
+        "answer": 1
+      },
+      {
+        "question": "It is known as the fundamental law of the land.",
+        "options": [
+          "Revised Penal Code",
+          "Code of Kalantiaw",
+          "R.A. 7438",
+          "International Law",
+          "Constitution"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "The following are lands of the public domain except:",
+        "options": [
+          "Forests",
+          "National parks",
+          "Agricultural lands",
+          "Government lots",
+          "Mineral lands"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "What may be classified as alienable lands of the public domain?",
+        "options": [
+          "Forests",
+          "National parks",
+          "Agricultural lands",
+          "Government lots",
+          "Mineral lands"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "According to Article II, Section I of the Constitution, the Philippines is a ______ and ______ State.",
+        "options": [
+          "Democratic, Presidential",
+          "Republican, Presidential",
+          "Republican, Unitary",
+          "Parliamentary, Federal",
+          "Democratic, Republican"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "It is the introductory or prologue of the 1987 Philippine Constitution.",
+        "options": [
+          "National Territory",
+          "Preamble",
+          "Transitory Provisions",
+          "Bill of Rights",
+          "Suffrage"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "The following are reasons for a voter to be disqualified EXCEPT:",
+        "options": [
+          "Any person who has been sentenced by final judgment to suffer imprisonment for not less than one year.",
+          "Any person who has been sentenced by final judgment of having committed rebellion, sedition, firearms laws.",
+          "Insane persons declared by competent authority.",
+          "Any person who is 18 years old at the time of voter's registration.",
+          "Any person who is not able to vote for two consecutive elections."
+        ],
+        "answer": 4
+      },
+      {
+        "question": "The legislative power shall be vested in which bodies according to Art. VI, Sec. 1 of the Constitution.",
+        "options": [
+          "House of Representatives",
+          "Senate",
+          "The Congress",
+          "Congressional Districts",
+          "Upper House"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "It is the authority under the Constitution to make, amend and repeal laws.",
+        "options": [
+          "Inherent power",
+          "Legislative power",
+          "Jurisdiction",
+          "All of the above",
+          "Executive Power"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "It is the minimum requirement for a Senatorial candidate according to Article VI, Section 3 of the Constitution.",
+        "options": [
+          "40 years old",
+          "35 years old",
+          "25 years old",
+          "18 years old",
+          "30 years old"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Party-list representatives shall constitute how many per centum of the total number of representatives including those under the party-list?",
+        "options": ["50", "40", "20", "10", "30"],
+        "answer": 3
+      },
+      {
+        "question": "No bill passed by either of the HOR and Senate shall become law unless it has passed ______ readings on separate days, and printed copies thereof in its final form have been distributed to its members three days before its passage.",
+        "options": ["10", "5", "3", "2", "4"],
+        "answer": 3
+      },
+      {
+        "question": "The President shall notify ______ of every contract entered into in accordance with national economy provision, within thirty days from its execution.",
+        "options": ["Supreme Court", "Congress", "NEDA", "DFA", "DBM"],
+        "answer": 3
+      },
+      {
+        "question": "It is an agency which shall function as the independent planning agency of the government.",
+        "options": [
+          "National Economic Development Authority",
+          "Department of Budget and Management",
+          "Department of Finance",
+          "Department of Labor and Employment",
+          "Bureau of Internal Revenue"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "The House of Representatives shall consist of not more than _______ members in accordance with Art. VI, Sec. 5 of the Constitution.",
+        "options": ["200", "250", "350", "245", "300"],
+        "answer": 2
+      },
+      {
+        "question": "It constitutes twenty per centum of the total number of representatives.",
+        "options": [
+          "District representatives",
+          "Sectoral representatives",
+          "Congressional representatives",
+          "Political Party members",
+          "Party-list representatives"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "It is the minimum age requirement of a House Representative in accordance with the Art. VI, Sec., 6 of the Constitution.",
+        "options": [
+          "40 years old",
+          "35 years old",
+          "25 years old",
+          "18 years old",
+          "30 years old"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "How many times a House Representative may be elected consecutively as provided for by Art. VI, Sec. 7 of the Constitution?",
+        "options": ["5", "4", "2", "1", "3"],
+        "answer": 5
+      },
+      {
+        "question": "The tenure of office for a House Representative each term.",
+        "options": ["9 years", "6 years", "12 years", "4 years", "3 years"],
+        "answer": 5
+      },
+      {
+        "question": "How many Senators do we elect every Senatorial election?",
+        "options": ["12", "21", "24", "12", "25"],
+        "answer": 1
+      },
+      {
+        "question": "According to Art. VI, Section 4 of the Constitution, a Senator has a total tenure of how many years?",
+        "options": ["12 years", "6 years", "18 years", "15 years", "3 years"],
+        "answer": 1
+      },
+      {
+        "question": "How many times may a Senator be elected consecutively according to Art. VI, Section 4 of the Constitution?",
+        "options": ["1", "2", "3", "4", "5"],
+        "answer": 2
+      },
+      {
+        "question": "According to Art. IX, Sec. 1, the following are Constitutional Bodies EXCEPT:",
+        "options": [
+          "Commission on Audit",
+          "Commission on Appointments",
+          "Civil Service Commission",
+          "Commission on Elections"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "The Philippine Government, having been following the principle of separation of powers is subdivided into three branches, what are those?",
+        "options": [
+          "Executive, Legislative, Administrative",
+          "Office of the President, Senate, Congress",
+          "Executive, Legislative, Ombudsman",
+          "Congress, Supreme Court, Senate",
+          "Executive, Legislative, Judiciary"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "A body created under the 1987 Constitution to investigate acts or omission of any public officer which appear to be illegal, unjust, improper or inefficient.",
+        "options": [
+          "Sandiganbayan",
+          "Office of the Ombudsman",
+          "Supreme Court",
+          "Commission on Audit",
+          "Court of Appeals"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "The Article in the Constitution which defines all the territorial boundaries of the Philippines",
+        "options": [
+          "Article I",
+          "Article II",
+          "Article III",
+          "Article IV",
+          "Preamble"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "The right of a person under investigation for allegedly committing a criminal act involves:",
+        "options": [
+          "Right to a fair trial, right to be presumed innocent, and right to counsel",
+          "Compelling a person to testify against oneself",
+          "Right to be detained even without formal charge",
+          "Right to plead guilty for immediate release",
+          "Right to be maltreated for information sake"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "It provides citizenship through blood relationship.",
+        "options": [
+          "Jus soli",
+          "Adoption",
+          "Naturalization",
+          "Jus sanguinis",
+          "Estoppel"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "It provides citizenship by the place where a person was born.",
+        "options": [
+          "Jus soli",
+          "Naturalization",
+          "Estoppel",
+          "Adoption",
+          "Jus sanguinis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "It means retroactive effect of a law, making an act punishable even if it was committed before the act punishing it was passed.",
+        "options": [
+          "Ex-post facto law",
+          "Double case",
+          "Double jeopardy",
+          "Forum shopping",
+          "Bill of attainder"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "The following constitutes due process of law EXCEPT:",
+        "options": [
+          "The accused shall be tried before a competent court.",
+          "The accused must be given a fair and impartial trial.",
+          "The accused must be denied of public legal assistance.",
+          "The accused must be allowed to use all legal means to defend himself.",
+          "The judgment awarded against the accused must be within the authority of the law."
+        ],
+        "answer": 4
+      },
+      {
+        "question": "The Commission on Human Rights has all the following powers and functions, EXCEPT",
+        "options": [
+          "Prosecute human rights offenders",
+          "Investigate all forms of human rights violation",
+          "Exercise visitorial powers over jails and prison",
+          "Recommend measures to promote human rights",
+          "Adopt and implement its operational guidelines and rules on procedures"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "It is considered the National Language in the Philippines.",
+        "options": ["Tagalog", "Pilipino", "Filipino", "Taglish", "English"],
+        "answer": 3
+      },
+      {
+        "question": "It is considered the primordial duty of the Government.",
+        "options": [
+          "To serve and protect people.",
+          "To ensure security and welfare.",
+          "To ensure protection of life, liberty and property.",
+          "To collect taxes and serve people.",
+          "To maintain peace and order"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "It is considered a basic and autonomous social institution.",
+        "options": ["Barangay", "Family", "School", "Peers", "NGO's"],
+        "answer": 2
+      },
+      {
+        "question": "A constitutional process that hears before it condemns, which proceeds upon inquiry and renders judgment only after trial.",
+        "options": [
+          "Bill of Rights",
+          "Common Law",
+          "Due Process of Law",
+          "Equal Protection of the Law",
+          "None of the above"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who among the following cannot be removed from office by impeachment?",
+        "options": [
+          "President Rodrigo Duterte",
+          "COMELEC Chairman Andres Bautista",
+          "Rep. Sonny Belmonte",
+          "Ombudsman Conchita Carpio-Morales",
+          "Vice-President Leni Robredo"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "It is also known as the 'pork barrel'.",
+        "options": [
+          "Priority Development Associate Fund",
+          "Priority Disbursement Assistance Fund",
+          "Priority Development Assignment Fund",
+          "Priority Development Assistance Fund",
+          "None of the above"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "Who has the authority to recommend nominees for the members of the Supreme Court and judges of the lower courts to the President?",
+        "options": [
+          "Chief Justice of the Supreme Court",
+          "Judicial and Bar Council",
+          "Integrated Bar of the Philippines",
+          "Commission on Appointments",
+          "All of the above"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "It is considered as an accessory penalty to an impeachment case.",
+        "options": [
+          "Perpetual disqualification from holding public office",
+          "Imprisonment/house arrest",
+          "Fine or indemnity",
+          "Sequestration of property",
+          "None of the above"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Under which branch of the government do the Senators, Senate President, House Speaker, and House Representatives belong?",
+        "options": [
+          "Administrative",
+          "Executive",
+          "Legislative",
+          "Judiciary",
+          "Cabinet"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Who was the President of the 1987 Constitutional Commission?",
+        "options": [
+          "Cecilia Munoz-Palma",
+          "Napoleon G. Rama",
+          "Ambrosio B. Padilla",
+          "Jose D. Calderon",
+          "Corazon Aquino"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "It is considered as the lower chamber of the Congress.",
+        "options": [
+          "Senate",
+          "Blue Ribbon Committee",
+          "House of Representatives",
+          "National Assembly",
+          "None of the above"
+        ],
+        "answer": 3
+      }
+    ],
+    "vocabulary": []
+  }
+}
