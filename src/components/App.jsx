@@ -19,6 +19,9 @@ const initialState = {
   subject: "",
   status: "",
   questions: [],
+  userAnswer: null,
+  points: 0,
+  progress: 0,
 };
 
 function reducer(state, action) {
@@ -38,6 +41,30 @@ function reducer(state, action) {
         status: "active",
         questions: state.questions[`${state.subject}`],
       };
+    case "newAnswer":
+      const currQuestion = state.questions.at(state.index);
+      const progressInc = 100 / state.questions.length;
+
+      return {
+        ...state,
+        userAnswer: action.payload,
+        points:
+          action.payload === currQuestion.answer
+            ? state.points++
+            : state.points,
+        progress: state.progress + progressInc,
+      };
+    case "next":
+      return {
+        ...state,
+        index:
+          state.index !== state.questions.length
+            ? state.index + 1
+            : state.index,
+        userAnswer: null,
+      };
+    case "finish":
+      return { ...state, status: "finished" };
     default:
   }
 }
@@ -47,18 +74,32 @@ const subjects = ["general-information", "vocabulary", "mathematics", "logic"];
 const choices = ["A", "B", "C", "D", "E"];
 
 function App() {
-  const [{ subject, status, questions, index }, dispatch] = useReducer(
-    reducer,
-    initialState
-  );
+  const [
+    { subject, status, questions, index, userAnswer, points, progress },
+    dispatch,
+  ] = useReducer(reducer, initialState);
 
   const activeQuestion = questions[index];
+  const questionsQuantity = questions.length;
 
   //Converts the name into display name
   const caps = (word) => {
     const wordArray = word.split("-").map((w) => w.toUpperCase());
 
     return wordArray.join(" ");
+  };
+
+  //Highlights a word if any
+  const highlightWord = (sentence) => {
+    const words = sentence.split(" ");
+    return words.map((word, index) => (
+      <span
+        key={index}
+        className={word === activeQuestion.highlighted ? "highlight" : ""}
+      >
+        {word}{" "}
+      </span>
+    ));
   };
 
   useEffect(
@@ -68,7 +109,7 @@ function App() {
         try {
           dispatch({ type: "dataLoading" });
 
-          const res = await fetch("http://localhost:9000/quiz-data");
+          const res = await fetch("http://localhost:8001/quiz-data-test");
           const data = await res.json();
 
           dispatch({ type: "dataReceived", payload: data });
@@ -94,20 +135,40 @@ function App() {
         {status === "error" && <Error />}
         {status === "active" && (
           <Main caps={caps} subject={subject}>
-            <ProgressBar progress={50} />
-            <Question question={activeQuestion.question} />
+            <ProgressBar progress={progress} />
+            <Question
+              question={activeQuestion.question}
+              highlightWord={highlightWord}
+              index={index}
+            />
             <Options>
               {activeQuestion.options.map((option, index) => (
                 <Option
                   option={option}
                   optionNum={index + 1}
                   letter={choices[index]}
-                  key={index}
+                  key={index + 1}
+                  userAnswer={userAnswer}
+                  dispatch={dispatch}
+                  activeQuestion={activeQuestion}
                 />
               ))}
             </Options>
-            <Index />
-            <Button btnType={"btn next"} btnName={"NEXT"} />
+            <Index questionsQuantity={questionsQuantity} index={index} />
+            {userAnswer &&
+              (index !== questionsQuantity - 1 ? (
+                <Button
+                  btnType={"btn next"}
+                  btnName={"NEXT"}
+                  onClick={() => dispatch({ type: "next" })}
+                />
+              ) : (
+                <Button
+                  btnType={"btn next"}
+                  btnName={"FINISH"}
+                  onClick={() => dispatch({ type: "finish" })}
+                />
+              ))}
           </Main>
         )}
         {status === "ready" && (

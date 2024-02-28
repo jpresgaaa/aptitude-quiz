@@ -1,0 +1,200 @@
+{
+  "quiz-data-test": {
+    "general-information": [
+      {
+        "question": "In Section II of the Declaration of Principles, the Philippines renounces ________ as an instrument of national policy:",
+        "options": [
+          "Communism",
+          "War",
+          "Lawlessness",
+          "Democracy",
+          "Extra-territoriality"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "According to Article II, Section 6 of the Constitution, separation of the church and state shall be inviolable.",
+        "options": ["True", "False", "Misleading"],
+        "answer": 1
+      },
+      {
+        "question": "In accordance with Art. III, Sec. 15 of the Constitution, the privilege of the writ of habeas corpus shall not be suspended ONLY in the cases of:",
+        "options": [
+          "War",
+          "Foreign invasion",
+          "State of calamity",
+          "Invasion or rebellion",
+          "State of emergency"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "Right to freely publish and say whatever pleases to do based on Art. III, Sec. 4 of the Constitution.",
+        "options": [
+          "Freedom from paying debts",
+          "Freedom to protest",
+          "Right to life",
+          "Freedom of expression",
+          "Freedom of information"
+        ],
+        "answer": 4
+      },
+      {
+        "question": "It is an inherent power of the State to take private property for public use given just compensation.",
+        "options": [
+          "Police Power",
+          "Power of taxation",
+          "Sovereignty",
+          "Dominance",
+          "Power of eminent domain"
+        ],
+        "answer": 5
+      },
+      {
+        "question": "Another inherent power of the State to enact and enforce laws in relation to persons and properties.",
+        "options": [
+          "Police Power",
+          "Power of taxation",
+          "Sovereignty",
+          "Dominance",
+          "Power of eminent domain"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "An inherent power of the State to impose charge or burden such as charged upon persons and properties.",
+        "options": [
+          "Police Power",
+          "Power of taxation",
+          "Sovereignty",
+          "Dominance",
+          "Power of eminent domain"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following is considered nepotism based on Art. VII, Section 13 of the Constitution?",
+        "options": [
+          "President appointing his college professor as Secretary to Education.",
+          "President has three children who are local officials.",
+          "President appointed his fellow in a fraternity as Chief of PNP.",
+          "President appointed his third-degree cousin as the Ombudsman.",
+          "President appointed his drinking buddies as cabinet secretaries."
+        ],
+        "answer": 4
+      },
+      {
+        "question": "How many times may a President be elected consecutively?",
+        "options": ["2", "5", "3", "4", "None of the above"],
+        "answer": 5
+      },
+      {
+        "question": "No person who has succeeded as President and has served as such for years shall be qualified for election to the same office any more than _____ years shall be qualified for election to the same office any time.",
+        "options": ["2", "3", "5", "6", "4"],
+        "answer": 5
+      }
+    ],
+    "vocabulary": [
+      {
+        "key": "q1",
+        "question": "The Vice-President's act was absolutely treacherous for the Filipinos.",
+        "highlighted": "treacherous",
+        "options": [
+          "betrayal",
+          "hazardous",
+          "harmless",
+          "commendable",
+          "secured"
+        ],
+        "answer": 1
+      },
+      {
+        "key": "q2",
+        "question": "Relevant issues on death penalty were discussed.",
+        "highlighted": "Relevant",
+        "options": [
+          "Pertinent",
+          "Unique",
+          "Unrelated",
+          "Inapplicable",
+          "Abhor"
+        ],
+        "answer": 1
+      },
+      {
+        "key": "q3",
+        "question": "The sufficient supplies of oil in the market make the price of petroleum stable.",
+        "highlighted": "sufficient",
+        "options": ["enough", "scarce", "model", "limited", "unsatisfactory"],
+        "answer": 1
+      },
+      {
+        "key": "q4",
+        "question": "The affidavit of the victim contains malicious accusations to the suspect.",
+        "highlighted": "malicious",
+        "options": ["sensible", "nasty", "pleasant", "kind", "gentle"],
+        "answer": 2
+      },
+      {
+        "key": "q5",
+        "question": "She passed the exam because she has a keen memory.",
+        "highlighted": "keen",
+        "options": ["vivid", "dull", "vague", "unclear", "sharp"],
+        "answer": 5
+      },
+      {
+        "key": "q6",
+        "question": "The officers were held accountable for the deadly car accident.",
+        "highlighted": "accountable",
+        "options": [
+          "lauded",
+          "applauded",
+          "approached",
+          "responsible",
+          "uncompensated"
+        ],
+        "answer": 4
+      },
+      {
+        "key": "q7",
+        "question": "The politician was incarcerated at Camp Crame due to an anti-illegal drug case.",
+        "highlighted": "incarcerated",
+        "options": ["tried", "imprisoned", "tortured", "deported", "killed"],
+        "answer": 2
+      },
+      {
+        "key": "q8",
+        "question": "Police recruits underwent a grueling task during their training.",
+        "highlighted": "grueling",
+        "options": [
+          "apparent",
+          "relaxing",
+          "punishing",
+          "exhausting",
+          "effortless"
+        ],
+        "answer": 4
+      },
+      {
+        "key": "q9",
+        "question": "One becomes emotionally stronger in times of adversity.",
+        "highlighted": "adversity.",
+        "options": [
+          "imprisonment",
+          "misfortune",
+          "advertisement",
+          "adventure",
+          "virility"
+        ],
+        "answer": 2
+      },
+      {
+        "key": "q10",
+        "question": "The accused spoke in quavering tones during the interrogation.",
+        "highlighted": "quavering",
+        "options": ["trembling", "prevalent", "measured", "loud", "firm"],
+        "answer": 1
+      }
+    ]
+  }
+}

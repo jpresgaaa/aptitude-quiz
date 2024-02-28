@@ -1,5 +1,9 @@
-function Index() {
-  return <div className="index">-- 1 out of 50 questions --</div>;
+function Index({ questionsQuantity, index }) {
+  return (
+    <div className="index">
+      -- {index + 1} out of {questionsQuantity} questions --
+    </div>
+  );
 }
 
 export default Index;

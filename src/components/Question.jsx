@@ -1,10 +1,9 @@
-function Question({ question }) {
-  console.log(question);
+function Question({ question, highlightWord, index }) {
   return (
     <>
       <div className="question">
-        <div className="number">1.</div>
-        <p>{question}</p>
+        <div className="number">{index + 1}.</div>
+        <p>{highlightWord(question)}</p>
       </div>
     </>
   );

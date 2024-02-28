@@ -184,13 +184,18 @@ body {
   color: var(--text-color-2);
 }
 
+.main .highlight {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 .main .option {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.main .option button {
+.main .option .option-btn {
   display: flex;
   position: relative;
   align-items: center;
@@ -206,9 +211,10 @@ body {
   border-radius: 50px;
   cursor: pointer;
   transition: var(--trans3);
+  height: 100%;
 }
 
-.main .option button .letter {
+.main .option .option-btn .letter {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -224,12 +230,12 @@ body {
   transition: var(--trans3);
 }
 
-.main .option button:hover {
+.main .option .option-btn:hover {
   color: var(--primary-color);
   border: 4px solid var(--primary-color);
 }
 
-.main .option button:hover .letter {
+.main .option .option-btn:hover .letter {
   background: var(--text-color-2);
   border-color: var(--text-color-2);
   box-shadow: 0px 0px 8px var(--primary-color);
@@ -237,13 +243,13 @@ body {
 
 /*correct class*/
 
-.main .option .correct {
+.main .option .option-btn.correct {
   background-color: var(--primary-color);
   color: var(--background-color);
   border-color: var(--primary-color);
 }
 
-.main .option .correct::after {
+.main .option .option-btn.correct::after {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -258,7 +264,7 @@ body {
   border-radius: 25px;
 }
 
-.main .option .correct .letter {
+.main .option .option-btn.correct .letter {
   background: var(--primary-color);
   border: solid 3px;
 }
@@ -267,13 +273,13 @@ body {
 
 /*wrong class*/
 
-.main .option .wrong {
+.main .option .option-btn.wrong {
   background-color: none;
   color: var(--error-color);
   border-color: var(--error-color);
 }
 
-.main .option .wrong::after {
+.main .option .option-btn.wrong::after {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -288,13 +294,16 @@ body {
   border-radius: 25px;
 }
 
-.main .option .wrong .letter {
+.main .option .option-btn.wrong .letter {
   background: var(--error-color);
   border: solid 3px var(--error-color);
 }
 
 /*wrong class*/
 
+.main .option .disabled {
+  pointer-events: none;
+}
 .main .options {
   position: relative;
   display: grid;
@@ -302,7 +311,16 @@ body {
   grid-gap: 25px;
 }
 
+.main .options .option-btn .choice {
+  width: 90%;
+}
+
 .main .options .option5 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.main .options .option3.three {
   grid-column-start: 1;
   grid-column-end: 3;
 }
